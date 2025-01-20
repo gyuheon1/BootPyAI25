@@ -26,3 +26,7 @@ FastAPI 서버 실행
 
 main.py 실행
 Terminal에서 D:\pythonWorkSpace> uvicon main:app --port 8001(위치확인)
+
+
+![image](https://github.com/user-attachments/assets/ddd7878c-61ad-49f0-8c6b-6fcf24cf1b11)
+
